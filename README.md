@@ -1,119 +1,24 @@
-💫 About Me
+# 💫 About Me:
+💫 About Me<br><br>Hi 👋, I'm **Om Dipak Khemnar**<br><br>🎓 **Final Year B.Tech Student** at Sanjivani College of Engineering, Kopargaon<br><br>💼 **SAP ABAP Developer** | 🤖 **AI/ML & Data Science Enthusiast**<br><br>☁️ **SAP Certified Associate – Back-End Developer (ABAP Cloud)**<br><br>🚀 **Passionate About**<br>• SAP S/4HANA & SAP BTP<br>• Artificial Intelligence & Machine Learning<br>• Data Science & Analytics<br>• Enterprise Software Development<br>• IoT & Smart Solutions<br><br>🌱 **Currently Learning**<br>• SAP RAP Model<br>• CDS Views<br>• SAP Fiori<br>• OData Services<br>• Generative AI<br>• Deep Learning<br>• MLOps<br><br>💻 **Core Skills**<br>🔹 SAP ABAP • ABAP Cloud • RAP • CDS Views • Open SQL<br>🔹 Python • Java • SQL • JavaScript • Kotlin<br>🔹 Machine Learning • Data Science • Pandas • NumPy • Scikit-learn<br>🔹 MySQL • MongoDB • Git • GitHub • Power BI<br><br>🚀 **Featured Projects**<br>📌 DataPulse AI Democracy<br>📌 Employee Retention Prediction<br>📌 Janshakti News Android App<br>📌 Renuka Hardware Management System<br>📌 DVSTL<br>📌 SAP ABAP Report Development<br><br>🏆 **Certification**<br>🥇 SAP Certified Associate – Back-End Developer (ABAP Cloud)<br><br>🎯 **Career Goal**<br>To become a **SAP ABAP Developer**, **AI/ML Engineer**, or **Data Scientist**, building scalable enterprise applications and AI-powered solutions that create real-world impact.<br><br>💡 **Fun Fact**<br>✨ I enjoy combining SAP Enterprise Technologies with Artificial Intelligence to build innovative solutions.<br><br>📫 **Reach Me At**<br>📧 **omkhemnar2@gmail.com**<br><br>⭐ **"Code • Learn • Build • Innovate • Repeat"**
 
-""Typing SVG" (https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Om+Dipak+Khemnar;SAP+ABAP+Developer;AI%2FML+%26+Data+Science+Enthusiast;SAP+Certified+ABAP+Cloud+Developer;Building+Enterprise+%26+AI+Solutions)" (https://git.io/typing-svg)
 
-https://komarev.com/ghpvc/?username=omkhemnar&style=for-the-badge
-https://img.shields.io/github/followers/omkhemnar?style=for-the-badge
-https://img.shields.io/github/stars/omkhemnar?affiliations=OWNER&style=for-the-badge
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@om_khemnar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-khemnar-b53848287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkhemnar2@gmail.com) 
 
-Hi 👋, I'm Om Dipak Khemnar
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=omkhemnar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=omkhemnar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=omkhemnar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎓 Final Year B.Tech Student at Sanjivani College of Engineering, Kopargaon
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omkhemnar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-💼 SAP ABAP Developer | 🤖 AI/ML & Data Science Enthusiast
-
-☁️ SAP Certified Associate – Back-End Developer (ABAP Cloud)
-
-🚀 Passionate about SAP S/4HANA, SAP BTP, ABAP Cloud, AI, Machine Learning, Data Science & IoT
-
-🌱 Currently learning RAP Model, CDS Views, SAP Fiori, OData, Generative AI, Deep Learning & MLOps
-
-💡 I enjoy building enterprise applications, AI-powered solutions, and solving real-world problems through technology.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omkhemnar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=omkhemnar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 Featured Projects
-
-🔹 DataPulse AI Democracy – AI-powered election analytics platform
-
-🔹 Employee Retention Prediction – Machine Learning model for employee attrition prediction
-
-🔹 Janshakti News Android App – Android news application using Kotlin
-
-🔹 Renuka Hardware Management System – Web-based inventory & management system
-
-🔹 DVSTL – Software Development Project
-
-🔹 SAP ABAP Report Development – ALV Reports, Open SQL, Custom Tables, Data Dictionary & Modular ABAP Programs
-
----
-
-🏆 Certifications
-
-🏅 SAP Certified Associate – Back-End Developer (ABAP Cloud)
-
----
-
-🌐 Connect With Me
-
-""Instagram" (https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)" (https://instagram.com/om_khemnar)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" (https://linkedin.com/in/om-khemnar-b53848287)
-""Email" (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)" (mailto:omkhemnar2@gmail.com)
-
----
-
-💻 Tech Stack
-
-👨‍💻 Languages
-
-Python • Java • C • SQL • JavaScript • HTML • CSS • Kotlin
-
-☁️ SAP
-
-ABAP • Object-Oriented ABAP • ABAP Cloud • SAP BTP • SAP S/4HANA • RAP • CDS Views • Open SQL • ALV Reports • Smart Forms • Data Dictionary • Internal Tables • ABAP Debugging • OData
-
-🤖 AI & Data Science
-
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Streamlit • Jupyter Notebook
-
-🗄️ Databases
-
-MySQL • MongoDB • SQLite
-
-🛠️ Tools
-
-Git • GitHub • Gradle • Postman • Power BI • Android Studio • Apache Tomcat
-
----
-
-📊 GitHub Stats
-
-https://github-readme-stats.shion.dev/api?username=omkhemnar&theme=dark&hide_border=false&include_all_commits=true&count_private=true
-
-https://streak-stats.demolab.com/?user=omkhemnar&theme=dark&hide_border=false
-
-https://github-readme-stats.shion.dev/api/top-langs/?username=omkhemnar&theme=dark&hide_border=false&layout=compact
-
----
-
-📈 GitHub Summary
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkhemnar&theme=github_dark
-
----
-
-📊 Contribution Graph
-
-""GitHub Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=omkhemnar&theme=github-dark)" (https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-🏆 GitHub Trophies
-
-https://github-profile-trophy.vercel.app/?username=omkhemnar&theme=radical&no-frame=true&no-bg=true&margin-w=8
-
----
-
-✍️ Random Dev Quote
-
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-
----
-
-🎯 Career Goal
-
-Aspiring to become a SAP ABAP Developer, AI/ML Engineer, or Data Scientist, building scalable enterprise applications and intelligent AI-powered solutions.
-
-⭐ "Code • Learn • Build • Innovate • Repeat"
-
-<!-- Proudly customized from GPRM -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
